@@ -20,5 +20,10 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&amp;logo=Thymeleaf&amp;logoColor=white">
 </div>
 - 2022.10 ~ SpringData JPA, QueryDsl 적용
-
 - https://www.earlmazip.co.kr
+
+[ ETC ]
+<div>
+	<img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&amp;logo=Delphi&amp;logoColor=white">
+	<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&amp;logo=C Sharp&amp;logoColor=white">
+</div>
