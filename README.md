@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&amp;logo=Thymeleaf&amp;logoColor=white">
 </div>
 - 2022.10 ~ SpringData JPA, QueryDsl 적용
-- https://www.earlmazip.co.kr
+- http://www.earlmazip.co.kr
 
 [ ETC ]
 <div>
