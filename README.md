@@ -1,3 +1,13 @@
+[ testBoard ]
+- 2023.07 ~ 게시판 테스트
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&amp;logo=Spring Boot&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Gradle-02383A?style=flat-square&amp;logo=Gradle&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&amp;logo=Java&amp;logoColor=white">
+	<img src="https://img.shields.io/badge/Querydsl-007396?style=flat-square&amp;logo=Java&amp;logoColor=white">
+</div>
+
 [ earlmazipApi ]
 - 2022.10 ~ 수동권 부동산 통계 및 거래내역 호출 Api
 <div>
